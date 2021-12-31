@@ -160,3 +160,16 @@
 
 
 // }
+
+// XY12XY34XY56XY78 100
+
+
+// let n=4;
+// let total="";
+// let num=12
+
+// for(let i=1; i<=n; i++){
+//     total +="XY"+num
+//     num=num+22
+// }
+//     console.log(total,num)
